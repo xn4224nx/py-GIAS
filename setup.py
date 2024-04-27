@@ -12,4 +12,5 @@ setup(
     license="GPL-3.0",
     packages=["gias"],
     zip_safe=False,
+    install_requires=['requests'],
 )
